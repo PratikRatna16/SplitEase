@@ -5,13 +5,13 @@
     <string name="txt3"> Would u like to add tip? </string>
     <string name="txt4"> Split Amount</string>
     <string name="txt5"> How much flat amount tip would you like to add? </string>
-    <string name="txt6"> How much tip in Percent would You like to add? </string>
+    <string name="txt6"> How much tip in Percent would You like to add from Bill? </string>
     <string name="hint1"> Bill </string>
     <string name="hint2"> Person </string>
     <string name="hint3"> Per Person</string>
     <string name="hint4"> e.g., 5.50 </string>
     <string name="hint5"> e.g., 5% </string>
-    <string name="bt1"> Submit </string>
+    <string name="bt1"> Clear </string>
     <string name="radio1"> Flat Amount </string>
     <string name="radio2"> Percentage (%) </string>
 </resources>
